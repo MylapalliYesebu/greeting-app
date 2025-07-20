@@ -34,7 +34,7 @@ It helped me practice:
 
 ## 🧪 Live Demo
 
-👉 soon
+👉 [Click here to view the live demo](https://greeting-app-three.vercel.app/)
 
 ---
 
