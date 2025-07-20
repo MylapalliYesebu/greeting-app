@@ -49,4 +49,4 @@ It helped me practice:
 
 - **Mylapalli Yesebu**  
 - [GitHub](https://github.com/MylapalliYesebu)  
-- 📧 [Gmail](mailto:yesebymylapalli08@gmail.com)
+- [Gmail](mailto:yesebymylapalli08@gmail.com)
